@@ -96,8 +96,8 @@ canvas img {
 #nav > button {
   padding: 10px 20px;
   border-radius: 50px;
-  background-color: #000;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   border: none;
 }
 #page > h3 {
